@@ -1,0 +1,11 @@
+#bg{
+    clip-path: ellipse(73% 100% at 0% 0%); 
+} 
+#username{
+    height: auto;
+    width: 20px;
+}
+
+#bar{
+    text-align: center;
+}
