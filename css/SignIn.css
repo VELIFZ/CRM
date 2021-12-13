@@ -1,0 +1,42 @@
+html{    
+    margin: 0px;     
+    height: 100%;     
+    width: 100%;  
+}   
+
+body{     
+    margin: 0px;     
+    min-height: 100%;     
+    width: 100%; 
+}
+#bg{
+    background-color: rgb(5, 5, 255);
+    clip-path: ellipse(62% 100% at 13% 0%);
+
+} 
+#username{
+    height: auto;
+    width: 20px;
+}
+
+#bar{
+    text-align: center;
+    height: 55px;
+    width: 430px;
+}
+#SignUp{
+    background-color: rgb(5, 5, 255);
+}
+
+#signin{
+    background-color: rgb(5, 5, 255);
+}
+
+.Social{
+    font-size:2.5em;
+}
+
+.usericons{
+    font-size:1.5em;
+}
+
